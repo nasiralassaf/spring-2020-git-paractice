@@ -1,4 +1,8 @@
 Toyota
 Honda
 TESLA
+<<<<<<< HEAD
 Nissan
+=======
+Nikola
+>>>>>>> 66f63d86487f9d6f3eca8dc2322bbd1965dea405
